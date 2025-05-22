@@ -12,7 +12,7 @@ This project is a recipe page created to practice **HTML** and **CSS** skills. T
 ## Live Demo
 
 You can view the project live on GitHub Pages:  
-[https://your-github-username.github.io/recipe-page-main/](https://your-github-username.github.io/recipe-page-main/)](https://mohammaddadsetan.github.io/recipe-page-frontendmentor/)
+(https://your-github-username.github.io/recipe-page-main/)
 
 ## How to Run
 
